@@ -1,0 +1,3 @@
+﻿  vector_File.cpp
+C:\Users\AdMin\Documents\ILISI2\POO avance\vector_File\vector_File\vector_File.cpp(88,35): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  vector_File.vcxproj -> C:\Users\AdMin\Documents\ILISI2\POO avance\vector_File\x64\Debug\vector_File.exe
